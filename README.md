@@ -1,2 +1,2 @@
-# DSA---PROBLEMS-DrGViswanathan-
+# DSA-PROBLEMS-DrGViswanathan-
 Daily DSA problems 
