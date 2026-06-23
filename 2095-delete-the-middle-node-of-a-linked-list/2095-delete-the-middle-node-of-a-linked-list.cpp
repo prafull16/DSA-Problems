@@ -2,9 +2,13 @@ class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
 
-        if (head == NULL || head->next == NULL) {
-            return NULL;
-        }
+      if (head == NULL) {
+    return NULL;
+}
+
+if (head->next == NULL) {
+    return NULL;
+}
 
         int n = 0;
         ListNode* temp = head;
@@ -26,9 +30,11 @@ public:
             n++;
 
             if (pos == n) {
-                left->next = right->next;
-                return head;
-            }
+    left->next = right->next;
+    right->next = NULL;
+    delete right;
+    return head;
+}
         }
 
         return head;
