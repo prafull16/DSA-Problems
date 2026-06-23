@@ -11,6 +11,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prafull16/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -18,5 +19,6 @@ Daily DSA problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prafull16/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/prafull16/DSA-Problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
