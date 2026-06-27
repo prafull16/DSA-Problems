@@ -7,6 +7,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Daily DSA problems
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -49,4 +51,24 @@ Daily DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
