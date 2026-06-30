@@ -7,6 +7,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
@@ -51,6 +52,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
