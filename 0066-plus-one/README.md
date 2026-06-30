@@ -36,8 +36,3 @@ Thus, the result should be [1,0].
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= digits.length &lt;= 100</code></li>
-	<li><code>0 &lt;= digits[i] &lt;= 9</code></li>
-	<li><code>digits</code> does not contain any leading <code>0</code>&#39;s.</li>
-</ul>
