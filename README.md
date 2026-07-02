@@ -6,6 +6,7 @@ Daily DSA problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prafull16/DSA-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
@@ -46,6 +47,7 @@ Daily DSA problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prafull16/DSA-Problems/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
