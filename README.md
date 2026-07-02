@@ -53,6 +53,7 @@ Daily DSA problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Daily DSA problems
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
@@ -79,4 +81,12 @@ Daily DSA problems
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
