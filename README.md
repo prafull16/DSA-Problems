@@ -61,6 +61,7 @@ Daily DSA problems
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prafull16/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
@@ -91,6 +93,7 @@ Daily DSA problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
