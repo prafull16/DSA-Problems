@@ -59,6 +59,7 @@ Daily DSA problems
 | ------- |
 | [0001-two-sum](https://github.com/prafull16/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prafull16/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -66,6 +67,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
@@ -79,6 +81,7 @@ Daily DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prafull16/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prafull16/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
