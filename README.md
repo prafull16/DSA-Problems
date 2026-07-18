@@ -16,6 +16,7 @@ Daily DSA problems
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prafull16/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
