@@ -11,6 +11,7 @@ Daily DSA problems
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prafull16/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -138,4 +140,5 @@ Daily DSA problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
