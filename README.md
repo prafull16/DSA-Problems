@@ -69,6 +69,7 @@ Daily DSA problems
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Daily DSA problems
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
 | ------- |
