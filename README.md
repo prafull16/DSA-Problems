@@ -82,6 +82,7 @@ Daily DSA problems
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [1922-count-good-numbers](https://github.com/prafull16/DSA-Problems/tree/master/1922-count-good-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ Daily DSA problems
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prafull16/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -153,6 +155,7 @@ Daily DSA problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
