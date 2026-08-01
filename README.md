@@ -101,6 +101,7 @@ Daily DSA problems
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
