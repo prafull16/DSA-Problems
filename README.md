@@ -88,6 +88,7 @@ Daily DSA problems
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/prafull16/DSA-Problems/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -129,6 +130,7 @@ Daily DSA problems
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -195,14 +197,17 @@ Daily DSA problems
 | ------- |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,4 +228,12 @@ Daily DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
