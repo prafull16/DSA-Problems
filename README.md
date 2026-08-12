@@ -22,6 +22,7 @@ Daily DSA problems
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -36,6 +37,7 @@ Daily DSA problems
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prafull16/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ Daily DSA problems
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prafull16/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -172,6 +175,7 @@ Daily DSA problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prafull16/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Matrix
 |  |
 | ------- |
