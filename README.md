@@ -23,6 +23,7 @@ Daily DSA problems
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
@@ -100,6 +101,7 @@ Daily DSA problems
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/prafull16/DSA-Problems/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -143,6 +145,7 @@ Daily DSA problems
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -218,6 +221,7 @@ Daily DSA problems
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
