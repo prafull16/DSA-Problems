@@ -21,6 +21,7 @@ Daily DSA problems
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
@@ -85,6 +86,7 @@ Daily DSA problems
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
@@ -170,6 +172,7 @@ Daily DSA problems
 | ------- |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prafull16/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -199,6 +202,7 @@ Daily DSA problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
