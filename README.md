@@ -29,6 +29,7 @@ Daily DSA problems
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prafull16/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prafull16/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prafull16/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -180,6 +181,7 @@ Daily DSA problems
 | ------- |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prafull16/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
