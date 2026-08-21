@@ -28,6 +28,7 @@ Daily DSA problems
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prafull16/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -109,6 +110,7 @@ Daily DSA problems
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1922-count-good-numbers](https://github.com/prafull16/DSA-Problems/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -181,6 +183,7 @@ Daily DSA problems
 | ------- |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prafull16/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
@@ -198,6 +201,7 @@ Daily DSA problems
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Greedy
 |  |
