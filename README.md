@@ -57,6 +57,7 @@ Daily DSA problems
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prafull16/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prafull16/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -92,6 +93,7 @@ Daily DSA problems
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prafull16/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prafull16/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -139,6 +141,7 @@ Daily DSA problems
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prafull16/DSA-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prafull16/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prafull16/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
