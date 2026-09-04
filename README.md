@@ -11,6 +11,7 @@ Daily DSA problems
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
@@ -166,6 +167,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
