@@ -18,6 +18,7 @@ Daily DSA problems
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prafull16/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -139,6 +140,7 @@ Daily DSA problems
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/prafull16/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -173,6 +175,7 @@ Daily DSA problems
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prafull16/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/prafull16/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
@@ -219,6 +222,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -269,6 +273,7 @@ Daily DSA problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [3310-remove-methods-from-project](https://github.com/prafull16/DSA-Problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
