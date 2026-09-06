@@ -11,6 +11,7 @@ Daily DSA problems
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
@@ -91,6 +92,7 @@ Daily DSA problems
 | [0001-two-sum](https://github.com/prafull16/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prafull16/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -173,6 +175,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
@@ -221,6 +224,7 @@ Daily DSA problems
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -300,4 +304,12 @@ Daily DSA problems
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
