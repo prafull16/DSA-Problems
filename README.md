@@ -48,6 +48,7 @@ Daily DSA problems
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prafull16/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/prafull16/DSA-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
@@ -140,6 +141,7 @@ Daily DSA problems
 | [0008-string-to-integer-atoi](https://github.com/prafull16/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
@@ -312,4 +314,20 @@ Daily DSA problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
