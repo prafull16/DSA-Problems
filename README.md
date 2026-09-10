@@ -11,6 +11,7 @@ Daily DSA problems
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/prafull16/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ Daily DSA problems
 | [0001-two-sum](https://github.com/prafull16/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prafull16/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/prafull16/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
@@ -226,6 +228,7 @@ Daily DSA problems
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prafull16/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
