@@ -23,6 +23,7 @@ Daily DSA problems
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prafull16/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/prafull16/DSA-Problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/prafull16/DSA-Problems/tree/master/0216-combination-sum-iii) |
@@ -212,6 +213,7 @@ Daily DSA problems
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prafull16/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prafull16/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/prafull16/DSA-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prafull16/DSA-Problems/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
