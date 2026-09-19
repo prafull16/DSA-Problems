@@ -30,6 +30,7 @@ Daily DSA problems
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
@@ -126,6 +127,7 @@ Daily DSA problems
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/prafull16/DSA-Problems/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
@@ -357,4 +359,12 @@ Daily DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
