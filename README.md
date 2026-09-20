@@ -26,6 +26,7 @@ Daily DSA problems
 | [0136-single-number](https://github.com/prafull16/DSA-Problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/prafull16/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
@@ -125,6 +126,7 @@ Daily DSA problems
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prafull16/DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/prafull16/DSA-Problems/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
@@ -316,6 +318,7 @@ Daily DSA problems
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bracket Sequences
 |  |
@@ -366,5 +369,18 @@ Daily DSA problems
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
