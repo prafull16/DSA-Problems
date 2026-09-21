@@ -44,6 +44,7 @@ Daily DSA problems
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prafull16/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/prafull16/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prafull16/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prafull16/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -139,6 +140,7 @@ Daily DSA problems
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/prafull16/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prafull16/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -192,6 +194,7 @@ Daily DSA problems
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/prafull16/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
