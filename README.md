@@ -36,6 +36,7 @@ Daily DSA problems
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
@@ -111,6 +112,7 @@ Daily DSA problems
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
@@ -242,6 +244,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prafull16/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prafull16/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
@@ -251,6 +254,7 @@ Daily DSA problems
 | [0033-search-in-rotated-sorted-array](https://github.com/prafull16/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -275,6 +279,7 @@ Daily DSA problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Counting Sort
