@@ -38,6 +38,7 @@ Daily DSA problems
 | [1563-stone-game-v](https://github.com/prafull16/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prafull16/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/prafull16/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -114,6 +115,7 @@ Daily DSA problems
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prafull16/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1980-find-unique-binary-string) |
@@ -173,6 +175,7 @@ Daily DSA problems
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prafull16/DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/prafull16/DSA-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/prafull16/DSA-Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
