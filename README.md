@@ -15,6 +15,7 @@ Daily DSA problems
 | [0036-valid-sudoku](https://github.com/prafull16/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/prafull16/DSA-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
@@ -129,6 +130,7 @@ Daily DSA problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/prafull16/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/prafull16/DSA-Problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/prafull16/DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prafull16/DSA-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prafull16/DSA-Problems/tree/master/0067-add-binary) |
@@ -268,6 +270,7 @@ Daily DSA problems
 | ------- |
 | [0036-valid-sudoku](https://github.com/prafull16/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prafull16/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/prafull16/DSA-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/prafull16/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
