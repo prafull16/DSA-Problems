@@ -173,6 +173,7 @@ Daily DSA problems
 | [0079-word-search](https://github.com/prafull16/DSA-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/prafull16/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0796-rotate-string](https://github.com/prafull16/DSA-Problems/tree/master/0796-rotate-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/prafull16/DSA-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -363,6 +364,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prafull16/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/prafull16/DSA-Problems/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
