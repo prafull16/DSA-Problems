@@ -413,4 +413,8 @@ Daily DSA problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
