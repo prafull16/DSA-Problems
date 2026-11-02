@@ -31,6 +31,7 @@ Daily DSA problems
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/prafull16/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -66,6 +67,7 @@ Daily DSA problems
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prafull16/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prafull16/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -75,6 +77,7 @@ Daily DSA problems
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -286,6 +289,7 @@ Daily DSA problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -418,4 +422,8 @@ Daily DSA problems
 | ------- |
 | [0176-second-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0177-nth-highest-salary) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
