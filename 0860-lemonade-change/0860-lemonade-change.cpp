@@ -1,42 +1,45 @@
 class Solution {
 public:
-    bool lemonadeChange(vector<int>& arr) {
+    bool lemonadeChange(vector<int>& bills) {
+          int f = 0;  // Number of $5 bills
+        int t = 0;  // Number of $10 bills
 
-        int five = 0 ; 
-        int ten = 0 ;
+        for(int i = 0; i < bills.size(); i++) {
 
-        if(arr[0] != 5)  return false;
+            if(bills[i] == 5) {
+                f++;
+            }
 
-        for(int i = 0 ; i < arr.size() ; i++){
+            else if(bills[i] == 10) {
 
-            if(arr[i] == 5) five++;
-            
-                        if(arr[i] == 10){ 
+                if(f > 0) {
+                    f--;
+                    t++;
+                }
+                else {
+                    return false;
+                }
+            }
 
-                            if(five > 0 ){
-                            ten++;
-                            five--; }
-                        else{
-                            return false;
-                        }
-                        
-                        }
+            else if(bills[i] == 20) {
 
-                            if(arr[i] == 20){
-                                if(five > 0 && ten > 0 ){
-                                    ten--;
-                                    five--;
-                                } 
-                                else if( five >= 3){
-                                    five -= 3;
-                                }
-                                else{
-                                    return false;
-                                }
-                            }     
-                    
+                // Prefer $10 + $5
+                if(t > 0 && f > 0) {
+                    t--;
+                    f--;
+                }
+
+                // Otherwise use three $5 bills
+                else if(f >= 3) {
+                    f -= 3;
+                }
+
+                else {
+                    return false;
+                }
+            }
         }
-        
+
         return true;
     }
 };
