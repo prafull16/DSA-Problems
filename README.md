@@ -33,6 +33,7 @@ Daily DSA problems
 | [0216-combination-sum-iii](https://github.com/prafull16/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/prafull16/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/prafull16/DSA-Problems/tree/master/1390-four-divisors) |
@@ -290,6 +291,7 @@ Daily DSA problems
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/prafull16/DSA-Problems/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/prafull16/DSA-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
