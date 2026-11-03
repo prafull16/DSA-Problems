@@ -425,6 +425,7 @@ Daily DSA problems
 | [0176-second-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/prafull16/DSA-Problems/tree/master/0178-rank-scores) |
+| [0601-human-traffic-of-stadium](https://github.com/prafull16/DSA-Problems/tree/master/0601-human-traffic-of-stadium) |
 ## Quicksort
 |  |
 | ------- |
