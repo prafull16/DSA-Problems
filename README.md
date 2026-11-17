@@ -428,6 +428,7 @@ Daily DSA problems
 | [0181-employees-earning-more-than-their-managers](https://github.com/prafull16/DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/prafull16/DSA-Problems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/prafull16/DSA-Problems/tree/master/0184-department-highest-salary) |
+| [0550-game-play-analysis-iv](https://github.com/prafull16/DSA-Problems/tree/master/0550-game-play-analysis-iv) |
 | [0601-human-traffic-of-stadium](https://github.com/prafull16/DSA-Problems/tree/master/0601-human-traffic-of-stadium) |
 ## Quicksort
 |  |
