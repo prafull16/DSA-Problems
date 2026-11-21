@@ -31,6 +31,7 @@ Daily DSA problems
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/prafull16/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/prafull16/DSA-Problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/prafull16/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -78,6 +79,7 @@ Daily DSA problems
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prafull16/DSA-Problems/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -208,6 +210,7 @@ Daily DSA problems
 | [0131-palindrome-partitioning](https://github.com/prafull16/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -290,6 +293,7 @@ Daily DSA problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/prafull16/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/prafull16/DSA-Problems/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
