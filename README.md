@@ -50,6 +50,7 @@ Daily DSA problems
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prafull16/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prafull16/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prafull16/DSA-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prafull16/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prafull16/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/prafull16/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -154,6 +155,7 @@ Daily DSA problems
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prafull16/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prafull16/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prafull16/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/prafull16/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/prafull16/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prafull16/DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -267,6 +269,7 @@ Daily DSA problems
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prafull16/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prafull16/DSA-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prafull16/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prafull16/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Daily DSA problems
 | ------- |
 | [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prafull16/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prafull16/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -415,6 +419,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prafull16/DSA-Problems/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prafull16/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
