@@ -185,6 +185,7 @@ Daily DSA problems
 | [0097-interleaving-string](https://github.com/prafull16/DSA-Problems/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/prafull16/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
+| [0678-valid-parenthesis-string](https://github.com/prafull16/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/prafull16/DSA-Problems/tree/master/0796-rotate-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prafull16/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -213,6 +214,7 @@ Daily DSA problems
 | [0140-word-break-ii](https://github.com/prafull16/DSA-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prafull16/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/prafull16/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/prafull16/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/prafull16/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prafull16/DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -298,6 +300,7 @@ Daily DSA problems
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/prafull16/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/prafull16/DSA-Problems/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/prafull16/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prafull16/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -364,6 +367,7 @@ Daily DSA problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prafull16/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prafull16/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Nim Game
@@ -404,6 +408,7 @@ Daily DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prafull16/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prafull16/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prafull16/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prime Factorization
