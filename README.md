@@ -448,4 +448,8 @@ Daily DSA problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
+## Concurrency
+|  |
+| ------- |
+| [1115-print-foobar-alternately](https://github.com/prafull16/DSA-Problems/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
