@@ -3,30 +3,30 @@ class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
 
-        sort(intervals.begin(), intervals.end());
-
         int n = intervals.size();
 
-        int cnt = 0;
-        int finish = intervals[0][1];
+        if (n == 0) return 0;
 
+        // Sort according to ending time
+        sort(intervals.begin(), intervals.end(),
+             [](auto a, auto b) {
+                 return a[1] < b[1];
+             });
+
+        int cnt = 1;
+        int lastEnd = intervals[0][1];
+
+        // Check remaining intervals
         for (int i = 1; i < n; i++) {
 
-            int start = intervals[i][0];
+            if (intervals[i][0] >= lastEnd) {
 
-            // Check if current interval overlaps
-            if (start < finish) {
                 cnt++;
-
-                // Keep the interval that finishes earlier
-                finish = min(finish, intervals[i][1]);
-            }
-            else {
-                // No overlap, keep current interval
-                finish = intervals[i][1];
+                lastEnd = intervals[i][1];
             }
         }
 
-        return cnt;
+        // Minimum intervals to remove
+        return n - cnt;
     }
 };
