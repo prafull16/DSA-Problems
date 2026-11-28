@@ -18,6 +18,7 @@ Daily DSA problems
 | [0040-combination-sum-ii](https://github.com/prafull16/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/prafull16/DSA-Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/prafull16/DSA-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prafull16/DSA-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/prafull16/DSA-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/prafull16/DSA-Problems/tree/master/0068-text-justification) |
@@ -79,6 +80,7 @@ Daily DSA problems
 | ------- |
 | [0015-3sum](https://github.com/prafull16/DSA-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prafull16/DSA-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prafull16/DSA-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prafull16/DSA-Problems/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -448,6 +450,7 @@ Daily DSA problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prafull16/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/prafull16/DSA-Problems/tree/master/0455-assign-cookies) |
 ## Concurrency
 |  |
